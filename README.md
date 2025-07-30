@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arjun J Nair 👋</h1>
 <p align="center">
-  <em>Passionate CS undergrad | Full-Stack Developer | AI/ML Explorer | Building scalable systems that make a difference</em>
+  <em> CS undergrad | Full-Stack Developer | AI/ML Explorer | Building scalable systems that make a difference</em>
 </p>
 
 ---
