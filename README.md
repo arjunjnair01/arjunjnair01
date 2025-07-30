@@ -37,7 +37,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunjnair01&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=arjunjnair01&show_icons=true&theme=tokyonight&include_all_commits=true" alt="stats" />
   <img src="https://streak-stats.demolab.com/?user=arjunjnair01&theme=tokyonight" alt="streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunjnair01&layout=compact&theme=tokyonight" alt="langs" />
 </p>
