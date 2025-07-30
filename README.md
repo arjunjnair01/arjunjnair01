@@ -9,12 +9,13 @@
 
 - 🎓 CSE student at **Amrita Vishwa Vidyapeetham** (Grad: 2026)
 - 💡 I love turning complex problems into clean, scalable, production-ready solutions
-- 🔬 Currently exploring: **LLM-based systems**, **Vulnerability Detection**, **Multimodal Vision AI**
 - 🛠️ Tech I'm fluent in:
   - Languages: `Python`, `Java`, `C++`, `JavaScript`
   - Frameworks: `Spring Boot`, `React`, `Node.js`, `FastAPI`
   - DBs: `MongoDB`, `PostgreSQL`, `MySQL`
-- 🌱 Always learning & building, currently diving deeper into **Distributed Systems** and **AWS Cloud**
+- 🔍 Exploring & Growing In:
+  - LLM-based systems • Vulnerability Detection • Multimodal Vision AI • AI-Powered Content Systems
+  - Distributed Systems • Cloud Architecture (AWS)
 
 ---
 
